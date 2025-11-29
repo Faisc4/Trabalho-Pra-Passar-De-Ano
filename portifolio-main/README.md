@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio - Lucyan 💻</h1>
+<h1 align="center">Portifólio - Miguel 💻</h1>
 
 ![Imagem do projeto finalizado]
 
